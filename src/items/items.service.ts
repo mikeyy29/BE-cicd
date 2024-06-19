@@ -31,6 +31,13 @@ let items: Items = {
         price: 199,
         description: "Informative",
         image: "https://cdn.auth0.com/blog/whatabyte/tea-sm.png"
+    },
+    4: {
+        id: 4,
+        name: "Burger",
+        price: 299,
+        description: "Cool",
+        image: "https://cdn.auth0.com/blog/whatabyte/tea-sm.png"
     }
 }
 
